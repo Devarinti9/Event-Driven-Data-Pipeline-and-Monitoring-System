@@ -32,3 +32,5 @@ docker compose up --build
 - API docs: `http://localhost:8003/docs`
 - Airflow: `http://localhost:8081`
 
+## Resume Description
+Designed and implemented an event-driven backend pipeline to automate data collection, transformation, and structured storage, supporting reliable processing for application and business workflows.
